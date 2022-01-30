@@ -1,5 +1,4 @@
 *.csv
-*.sh
 *.json
 *.jpg
 *.pth
@@ -21,3 +20,4 @@ data/result_LAM/
 data/result_TTM/
 data/video_imgs/
 data/wave/
+.git.backup/*
